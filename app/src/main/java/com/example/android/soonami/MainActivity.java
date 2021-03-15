@@ -177,7 +177,7 @@ public class MainActivity extends AppCompatActivity {
             }
             return jsonResponse;
         }
-
+            //this is just a comment
         /**
          * Convert the {@link InputStream} into a String which contains the
          * whole JSON response from the server.
